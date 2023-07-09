@@ -1,0 +1,37 @@
+@import "_variables.scss";
+
+.card {
+  background-color: $White;
+  max-width: 70%;
+  margin-inline: auto;
+  padding: 1.5rem;
+  text-align: center;
+  border-radius: 1rem;
+  section {
+    h1 {
+      color: $DarkBlue;
+    }
+    p {
+      padding-top: 0.9rem;
+      color: $GrayishBlue;
+    }
+  }
+}
+img {
+  width: 100%;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+
+  a {
+    color: $attributionColor;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .card {
+    width: 30%;
+  }
+}
