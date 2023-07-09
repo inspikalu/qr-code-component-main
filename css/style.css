@@ -30,6 +30,7 @@ body {
 .card section p {
   padding-top: 0.9rem;
   color: hsl(220, 15%, 55%);
+  margin-inline: 1rem;
 }
 
 img {
