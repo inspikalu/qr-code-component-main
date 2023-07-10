@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [GitHub]([https://your-solution-url.com](https://github.com/inspikalu/qr-code-component-main/))
+- Solution URL: [GitHub](https://github.com/inspikalu/qr-code-component-main/)
 - Live Site URL: [Live Site Url](https://superlative-tulumba-f3a5f4.netlify.app/)
 
 ## My process
